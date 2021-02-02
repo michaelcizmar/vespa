@@ -3477,7 +3477,6 @@
       "public"
     ],
     "methods": [
-      "public static java.lang.String replaceType(java.lang.String, java.lang.String)",
       "public static long makeLocation(java.lang.String)",
       "public void <init>(java.lang.String, java.lang.String, java.lang.String, java.lang.String)",
       "public long getLocation()",
